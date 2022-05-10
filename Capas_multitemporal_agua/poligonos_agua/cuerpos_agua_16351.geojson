@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cuerpos_agua_16351",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_Agua": 16351.0, "CUT_REG": "13", "CUT_PROV": "131", "CUT_COM": "13115", "REGION": "Metropolitana de Santiago", "PROVINCIA": "Santiago", "COMUNA": "Lo Barnechea", "COD_CUEN": "057", "COD_SUBC": "0572", "COD_SSUBC": "05723", "NOM_SSUBC": "Rio Mapocho entre Estero Arrayan y bajo unta Estero de Las Rosas", "COD_REG": 13.0, "COD_PROV": 131.0, "COD_COM": 13115.0, "COD_SSUBCU": 5723.0, "objectid": 16351.0, "Nombre": "La Dehesa", "Tipo": "Tranque", "Hectareas": 15.1909538325, "POINT_X": -70.528659789299994, "POINT_Y": -33.327454336400002 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -70.528131556764237, -33.326619329095536 ], [ -70.527518719789185, -33.326684136453594 ], [ -70.526834682344727, -33.326578011395966 ], [ -70.526156636663174, -33.326815418080407 ], [ -70.526395199558294, -33.328759611979969 ], [ -70.530687141576621, -33.328420445605339 ], [ -70.531024162521817, -33.328187217996735 ], [ -70.530626483735375, -33.325999683141518 ], [ -70.529688238336945, -33.325912945131414 ], [ -70.529281018543855, -33.326032497632113 ], [ -70.528875798400719, -33.32626655966223 ], [ -70.528131556764237, -33.326619329095536 ] ] ] ] } }
+]
+}

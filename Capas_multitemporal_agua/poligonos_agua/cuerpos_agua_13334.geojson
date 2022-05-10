@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cuerpos_agua_13334",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_Agua": 13334.0, "CUT_REG": "11", "CUT_PROV": "113", "CUT_COM": "11301", "REGION": "Aysén del General Carlos Ibáñez del Campo", "PROVINCIA": "Capitán Prat", "COMUNA": "Cochrane", "COD_CUEN": "115", "COD_SUBC": "1154", "COD_SSUBC": "11549", "NOM_SSUBC": "Rio Baker entre Rio del Paso y desembocadura", "COD_REG": 11.0, "COD_PROV": 113.0, "COD_COM": 11301.0, "COD_SSUBCU": 11549.0, "objectid": 13334.0, "Nombre": "Cuerpo de agua 6095", "Tipo": "Laguna", "Hectareas": 13.789413743000001, "POINT_X": -73.340448780399996, "POINT_Y": -47.659354281200002 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -73.33879818459701, -47.659882419472908 ], [ -73.338980341377066, -47.661074633629106 ], [ -73.340471825921384, -47.660715302834298 ], [ -73.341402725795803, -47.660252618857299 ], [ -73.341846513309122, -47.659592427244363 ], [ -73.342084980982733, -47.658738805839427 ], [ -73.342103064967802, -47.658167688778491 ], [ -73.341690951153083, -47.657828427391244 ], [ -73.34112890672084, -47.657772685023545 ], [ -73.340535365558139, -47.657828031677823 ], [ -73.339859488409672, -47.658221898708192 ], [ -73.339159741227604, -47.658984917736156 ], [ -73.33879818459701, -47.659882419472908 ] ] ] ] } }
+]
+}

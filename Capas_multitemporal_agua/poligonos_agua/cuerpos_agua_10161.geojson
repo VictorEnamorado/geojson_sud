@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cuerpos_agua_10161",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_Agua": 10161.0, "CUT_REG": "11", "CUT_PROV": "114", "CUT_COM": "11401", "REGION": "Aysén del General Carlos Ibáñez del Campo", "PROVINCIA": "General Carrera", "COMUNA": "Chile Chico", "COD_CUEN": "115", "COD_SUBC": "1152", "COD_SSUBC": "11523", "NOM_SSUBC": "Costeras Entre Rio San Jose y Desague Lago Jose Miguel Carrera", "COD_REG": 11.0, "COD_PROV": 114.0, "COD_COM": 11401.0, "COD_SSUBCU": 11523.0, "objectid": 10161.0, "Nombre": "Cuerpo de agua 4572", "Tipo": "Laguna", "Hectareas": 11.7697276251, "POINT_X": -72.744591312699995, "POINT_Y": -46.891823749099999 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -72.743810062319341, -46.893422041559823 ], [ -72.744700888348902, -46.894026502388328 ], [ -72.745659503046483, -46.893702431736237 ], [ -72.745760665025628, -46.89319436446096 ], [ -72.745326577520757, -46.892362130133556 ], [ -72.745284517500835, -46.89158825050535 ], [ -72.744903344359443, -46.890524658704678 ], [ -72.744974694847528, -46.889719289532877 ], [ -72.745076797362771, -46.889135833308032 ], [ -72.744619241371097, -46.888944422647022 ], [ -72.744123625557464, -46.889649289904028 ], [ -72.74376424823987, -46.890813141731833 ], [ -72.743736623248253, -46.891835400224089 ], [ -72.743810062319341, -46.893422041559823 ] ] ] ] } }
+]
+}

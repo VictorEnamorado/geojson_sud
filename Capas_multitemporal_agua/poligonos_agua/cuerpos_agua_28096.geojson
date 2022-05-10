@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cuerpos_agua_28096",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_Agua": 28096.0, "CUT_REG": "01", "CUT_PROV": "011", "CUT_COM": "01101", "REGION": "Tarapacá", "PROVINCIA": "Iquique", "COMUNA": "Iquique", "COD_CUEN": "018", "COD_SUBC": "0183", "COD_SSUBC": "01830", "NOM_SSUBC": "Salar de Soronel y Pampa Blanca", "COD_REG": 1.0, "COD_PROV": 11.0, "COD_COM": 1101.0, "COD_SSUBCU": 1830.0, "objectid": 28096.0, "Nombre": "Cuerpo de agua 6650", "Tipo": "Tranque", "Hectareas": 11.499965112, "POINT_X": -70.173545375900005, "POINT_Y": -20.779749608700001 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -70.171840238708739, -20.7784990124686 ], [ -70.171905601027149, -20.781121195133117 ], [ -70.174466599985749, -20.781082307316595 ], [ -70.175738186830003, -20.779604556987465 ], [ -70.174840945032614, -20.778460124816569 ], [ -70.171840238708739, -20.7784990124686 ] ] ] ] } }
+]
+}
